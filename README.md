@@ -1,4 +1,6 @@
-<iframe src="https://giphy.com/embed/sULKEgDMX8LcI" width="480" height="225" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sci-fi-matrix-cyberpunk-sULKEgDMX8LcI">via GIPHY</a></p>
+<div class="header" align="center">
+<img src="https://media2.giphy.com/media/yl3XErRq8qmmA/giphy.gif?cid=ecf05e47yy19o7ves3vv021r9snodaz0zah0hthu63051afe&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="900" height="225" frameBorder="0" class="giphy-embed"  />
+</div>
 
 <h1 align="center">Hi 👋, I'm David Vidal</h1>
 <h3 align="center">A passionate frontend developer from Canada-> Montreal</h3>
