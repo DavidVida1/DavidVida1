@@ -6,6 +6,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&color=29FF04&center=true&repeat=false&width=435&lines=Hello+World%2C+i'm+David.+.+.+%F0%9F%91%8B" alt="Typing SVG" /></a>
   
 ![Visitor Count](https://profile-counter.glitch.me/DavidVida1/count.svg)
+  <p>
+<a href="https://github.com/davidvida1?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fdavidvida1"/></a>
+  <a href="https://github.com/davidvida1?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/davidvida1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+<p>
 </div>
 <hr>
 
@@ -23,16 +29,17 @@
 
   
 <h2 align="left">:hammer_and_wrench: Languages and Tools </h2>
-
-<p> 
-  <img align="right" height="300"src="https://media3.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif?cid=ecf05e476igobm0m943owqtw80n9hvglm1ofw9hfm8g0iz0i&ep=v1_gifs_related&rid=giphy.gif&ct=g"  class="giphy-cat"  />
+<div align="left">
   
-  - Programming Languages
+<img align="right" height="300" src="https://media3.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif?cid=ecf05e476igobm0m943owqtw80n9hvglm1ofw9hfm8g0iz0i&ep=v1_gifs_related&rid=giphy.gif&ct=g" class="giphy-cat"/> 
+    
+
+- Programming Languages
     - <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
-  
- - Frontend Development
-   - <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+
+- Frontend Development
+ - <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
@@ -47,8 +54,12 @@
   - <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  </a>
-</p>
+
+
 </div>
+
+
+
 
 
 <h2>🔥 My Stats <h2>
