@@ -14,6 +14,7 @@
 - :muscle: CSS **obsessed Dev**
 - 🔭 I’m currently working on [Car Meeting Project](https://github.com/DavidVida1/My-Final-Project)
 - 🌱 I’m currently learning **figma** 🤓
+- :open_book: <a href="https://cb-group-project-client.vercel.app/">E-Commerce Group-Project</aa>
 - 📫 How to reach me :
   -  <a href="https://www.linkedin.com/in/david-vidal-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david vidald" height="30" width="40" /></a>
 
