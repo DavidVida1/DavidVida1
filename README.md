@@ -19,7 +19,6 @@
 <h3 align="left">:hammer_and_wrench: Languages and Tools </h3>
 
 <p> 
-  
   - Programming Languages
     - <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
@@ -40,18 +39,20 @@
   - <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  </a>
-
- 
-
 </p>
   
 - 📫 How to reach me <a href="https://linkedin.com/in/david vidald" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david vidald" height="30" width="40" /></a>
 </div>
 
-### 🔥 My Stats 
-![Github Stats ](https://github-readme-stats.vercel.app/api?username=davidvida1&show_icons=true&title_color=07ff1a&icon_color=07ff1a&text_color=D3D3D3&bg_color=CC000000&include_all_commits=true&count_private=true)
-![Github Sreak ](https://github-readme-streak-stats.herokuapp.com/?user=davidvida1&border=D3D3D3&sideNums=07ff1a&background=CC000000&stroke=07ff1a&currStreakNum=ffffff&ring=07ff1a&fire=D3D351&currStreakLabel=ffffff&sideLabels=D3D3D3&dates=b6d7a8)
 
+<h3>🔥 My Stats <h3>
+<div style="display:flex">
+  
+<a href="https://github.com/davidvida1"> <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=davidvida1&show_icons=true&title_color=07ff1a&icon_color=07ff1a&text_color=D3D3D3&bg_color=CC000000&include_all_commits=true&count_private=true"></img>
+   
+<a href="https://github.com/davidvida1"> <img align="right" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=davidvida1&border=D3D3D3&sideNums=07ff1a&background=CC000000&stroke=07ff1a&currStreakNum=ffffff&ring=07ff1a&fire=D3D351&currStreakLabel=ffffff&sideLabels=D3D3D3&dates=b6d7a8"></img>
+  
+</div>
 <hr>
 
 
