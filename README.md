@@ -63,7 +63,7 @@
 <hr>
 <hr>
 <hr>
-<hr>
+  <h2>🐍 Contribution snake<h2>
   <div> 
     
   ![Snake animation](https://github.com/davidvida1/davidvida1/blob/output/github-contribution-grid-snake.svg)                            
