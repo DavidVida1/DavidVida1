@@ -65,6 +65,6 @@
 <hr>
 <hr>
   
-<img align="center" src="https://github.com/DavidVida1/DavidVida1/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>                              
+  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)                            
 
 
