@@ -3,7 +3,7 @@
 </div>
 
 <div class="hello" align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&color=29FF04&center=true&repeat=false&width=435&lines=Hello+World%2C+i'm+David.+.+.+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&color=29FF04&center=true&width=435&lines=Hello+World%2C+i'm+David+.+.+.+%F0%9F%91%8B" alt="Typing SVG" /></a>
   
 ![Visitor Count](https://profile-counter.glitch.me/DavidVida1/count.svg)
   <p>
