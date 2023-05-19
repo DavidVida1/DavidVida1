@@ -64,6 +64,7 @@
 <hr>
 <hr>
 <hr>
-
+  
+<img align="center" src="https://github.com/DavidVida1/DavidVida1/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>                              
 
 
