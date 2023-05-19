@@ -3,22 +3,27 @@
 </div>
 
 <div class="hello" align="center">
-<a href="https://media3.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif?cid=ecf05e476igobm0m943owqtw80n9hvglm1ofw9hfm8g0iz0i&ep=v1_gifs_related&rid=giphy.gif&ct=g" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&color=29FF04&center=true&repeat=false&width=435&lines=Hello+World%2C+i'm+David.+.+.+%F0%9F%91%8B" alt="Typing SVG" /></a>
   
 ![Visitor Count](https://profile-counter.glitch.me/DavidVida1/count.svg)
 </div>
+<hr>
 
-
-### About me 💭
-<div style="display:flex">
-<img align="right" height="250"src="https://media3.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif?cid=ecf05e476igobm0m943owqtw80n9hvglm1ofw9hfm8g0iz0i&ep=v1_gifs_related&rid=giphy.gif&ct=g"  class="giphy-cat"  />
-  
+<h2>💭About me </h2>
 
 - :muscle: CSS **obsessed Dev**
 - 🔭 I’m currently working on [Car Meeting Project](https://github.com/DavidVida1/My-Final-Project)
-<h3 align="left">:hammer_and_wrench: Languages and Tools </h3>
+- 🌱 I’m currently learning **figma** 🤓
+- 📫 How to reach me <a href="https://linkedin.com/in/david vidald" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david vidald" height="30" width="40" /></a>
+
+
+
+
+  
+<h2 align="left">:hammer_and_wrench: Languages and Tools </h2>
 
 <p> 
+  <img align="right" height="350"src="https://media3.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif?cid=ecf05e476igobm0m943owqtw80n9hvglm1ofw9hfm8g0iz0i&ep=v1_gifs_related&rid=giphy.gif&ct=g"  class="giphy-cat"  />
   
   - Programming Languages
     - <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
@@ -41,12 +46,10 @@
   </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  </a>
 </p>
-  
-- 📫 How to reach me <a href="https://linkedin.com/in/david vidald" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david vidald" height="30" width="40" /></a>
 </div>
 
 
-<h3>🔥 My Stats <h3>
+<h2>🔥 My Stats <h2>
 <div style="display:flex">
   
 <a href="https://github.com/davidvida1"> <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=davidvida1&show_icons=true&title_color=07ff1a&icon_color=07ff1a&text_color=D3D3D3&bg_color=CC000000&include_all_commits=true&count_private=true"></img>
