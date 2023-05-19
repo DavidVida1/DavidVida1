@@ -23,7 +23,7 @@
 <h2 align="left">:hammer_and_wrench: Languages and Tools </h2>
 
 <p> 
-  <img align="right" height="350"src="https://media3.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif?cid=ecf05e476igobm0m943owqtw80n9hvglm1ofw9hfm8g0iz0i&ep=v1_gifs_related&rid=giphy.gif&ct=g"  class="giphy-cat"  />
+  <img align="right" height="250"src="https://media3.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif?cid=ecf05e476igobm0m943owqtw80n9hvglm1ofw9hfm8g0iz0i&ep=v1_gifs_related&rid=giphy.gif&ct=g"  class="giphy-cat"  />
   
   - Programming Languages
     - <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
