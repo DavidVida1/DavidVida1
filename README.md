@@ -63,6 +63,8 @@
 <hr>
 <hr>
 <hr>
+    <div align="center">    
+<img src="https://github-profile-trophy.vercel.app/?username=davidvida1&column=-1&theme=chalk&rank=-?&margin-w=15" style="height: 150px"  />                                 </div> 
   <h2>🐍 Contribution snake<h2>
   <div> 
     
