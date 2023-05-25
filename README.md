@@ -18,7 +18,7 @@
 <h2>💭About me </h2>
 
 - :muscle: CSS **obsessed Dev**
-- 🔭 I’m currently working on [Car Meeting Project](https://github.com/DavidVida1/My-Final-Project)
+- 🔭 I’m currently working on [Car Meeting Project](https://github.com/DavidVida1/My-Final-Project).
 - 🌱 I’m currently learning **Figma, Bootstrap**. 🤓
 - :open_book: <a href="https://cb-group-project-client.vercel.app/">E-Commerce Group-Project</aa>
 - 📫 How to reach me :
