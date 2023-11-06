@@ -6,11 +6,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&color=29FF04&center=true&width=435&lines=Hello+World%2C+i'm+David+.+.+.+%F0%9F%91%8B" alt="Typing SVG" /></a>
   
 ![Visitor Count](https://profile-counter.glitch.me/DavidVida1/count.svg)
-  <p>
-<a href="https://github.com/davidvida1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FDavidVida1"/></a>
-  <a href="https://github.com/davidvida1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/davidvida1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+ 
+
+ 
 <p>
 </div>
 <hr>
