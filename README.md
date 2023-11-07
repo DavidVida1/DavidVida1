@@ -13,7 +13,7 @@
 </div>
 <hr>
 🖼️ <a href="https://davidvida1.github.io/">Portfolio</a>
-<h2>💭About me </h2>
+<h2 align="left">💭About me </h2>
 - :muscle: CSS **obsessed Dev**
 - 🔭 I’m currently working on [Car Meeting Project](https://github.com/DavidVida1/My-Final-Project).
 - 🌱 I’m currently learning **Figma, Bootstrap**. 🤓
