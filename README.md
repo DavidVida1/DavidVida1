@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning **Figma, Bootstrap**. 🤓
 - :open_book: <a href="https://cb-group-project-client.vercel.app/">E-Commerce Group-Project</a>
 - 📫 How to reach me :
-  -  <a href="https://www.linkedin.com/in/david-vidal-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david vidald" height="30" width="40" /></a>
+-  <a href="https://www.linkedin.com/in/david-vidal-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david vidald" height="30" width="40" /></a>
 
 
 
