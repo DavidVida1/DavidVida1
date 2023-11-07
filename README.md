@@ -12,13 +12,12 @@
 <p>
 </div>
 <hr>
-
+🖼️ <a href="https://davidvida1.github.io/">Portfolio</a>
 <h2>💭About me </h2>
-- 🖼️ <a href="https://davidvida1.github.io/">Portfolio</a>
 - :muscle: CSS **obsessed Dev**
 - 🔭 I’m currently working on [Car Meeting Project](https://github.com/DavidVida1/My-Final-Project).
 - 🌱 I’m currently learning **Figma, Bootstrap**. 🤓
-- :open_book: <a href="https://cb-group-project-client.vercel.app/">E-Commerce Group-Project</aa>
+- :open_book: <a href="https://cb-group-project-client.vercel.app/">E-Commerce Group-Project</a>
 - 📫 How to reach me :
   -  <a href="https://www.linkedin.com/in/david-vidal-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david vidald" height="30" width="40" /></a>
 
