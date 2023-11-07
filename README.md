@@ -14,7 +14,7 @@
 <hr>
 
 <h2>💭About me </h2>
-
+- 🖼️ <a href="https://davidvida1.github.io/">Portfolio</a>
 - :muscle: CSS **obsessed Dev**
 - 🔭 I’m currently working on [Car Meeting Project](https://github.com/DavidVida1/My-Final-Project).
 - 🌱 I’m currently learning **Figma, Bootstrap**. 🤓
