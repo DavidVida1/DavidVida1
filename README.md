@@ -82,12 +82,7 @@
   <h2>🐍 Contribution snake<h2>
   <div> 
     
-  ![Snake animation](https://github.com/davidvida1/davidvida1/blob/output/github-contribution-grid-snake.svg)     
+![snake gif](https://github.com/davidvida1/davidvida1/blob/output/github-contribution-grid-snake.gif)
 
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://davidvida1.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://davidvida1.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://davidvida1.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
-</picture>
 
   </div>
