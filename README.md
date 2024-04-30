@@ -82,7 +82,7 @@
   <h2>🐍 Contribution snake<h2>
   <div> 
     
-![snake gif](https://github.com/davidvida1/davidvida1/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/DavidVida1/DavidVida1/blob/output/github-contribution-grid-snake.gif)
 
 
   </div>
