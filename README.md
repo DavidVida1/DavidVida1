@@ -7,7 +7,7 @@
   
 ![Visitor Count](https://profile-counter.glitch.me/DavidVida1/count.svg)
  
-<h1  align="center"  >🖼️ <a href="https://davidvida1.github.io/" >Portfolio</a> </div>
+
  
 <p>
 </div>
@@ -16,11 +16,12 @@
 
 
 <h2 align="left">💭About me </h2>
+<div>
+  <p>- :muscle: CSS **obsessed Dev**</p>
+  <p>-🌱 I’m currently learning **MySQL, Bootstrap**. 🤓</p>
+</div>
 
-<p>- :muscle: CSS **obsessed Dev**</p>
-<p>🌱 I’m currently learning **MySQL, Bootstrap**. 🤓</p>
-<p>:open_book: <a href="https://cb-group-project-client.vercel.app/">E-Commerce Group-Project</a></p>
-<p>📫 How to reach me :<a href="https://www.linkedin.com/in/david-vidal-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david vidald" height="30" width="40" /></a> </p>
+
 
 
 
@@ -64,9 +65,9 @@
 
 
 
-<h2>🔥 My Stats <h2>
-<div style="display:flex">
-  
+<h2>🔥 My Stats </h2>
+<div style="display:flex" align="center">
+
 <a href="https://github.com/davidvida1"> <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=davidvida1&show_icons=true&title_color=07ff1a&icon_color=07ff1a&text_color=D3D3D3&bg_color=CC000000&include_all_commits=true&count_private=true"></img>
    
 <a href="https://github.com/davidvida1"> <img align="right" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=davidvida1&border=D3D3D3&sideNums=07ff1a&background=CC000000&stroke=07ff1a&currStreakNum=ffffff&ring=07ff1a&fire=D3D351&currStreakLabel=ffffff&sideLabels=D3D3D3&dates=b6d7a8"></img>
@@ -77,12 +78,25 @@
 <hr>
 <hr>
 <hr>
-    <div align="center">    
-<img src="https://github-profile-trophy.vercel.app/?username=davidvida1&column=-1&theme=chalk&rank=-?&margin-w=15" style="height: 150px"  />                                 </div> 
-  <h2>🐍 Contribution snake<h2>
-  <div> 
-    
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/davidvida1/davidvida1/output//github-contribution-grid-snake-dark.svg?palette=github-dark" />
+<hr>
 
 
-  </div>
+
+
+
+<h2 >🐍 Contribution snake</h2>
+<div align="center">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/davidvida1/davidvida1/output//github-contribution-grid-snake-dark.svg?palette=github-dark" />
+</div>
+
+
+
+<h2>🔗 Social info</h2>
+<div id="badges"  align="center">
+    <a href="https://www.linkedin.com/in/david-vidal-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://davidvida1.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-dda703?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+    </a>
+</div>
