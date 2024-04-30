@@ -82,7 +82,7 @@
   <h2>🐍 Contribution snake<h2>
   <div> 
     
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/davidvida1/davidvida1/output/github-contribution-grid-snake.svg" />
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/davidvida1/davidvida1/output//github-contribution-grid-snake-dark.svg?palette=github-dark" />
 
 
   </div>
