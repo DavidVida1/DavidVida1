@@ -67,12 +67,11 @@
 
 <h2>🔥 My Stats </h2>
 <div style="display:flex" align="center">
-
-<a href="https://github.com/davidvida1"> <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=davidvida1&show_icons=true&title_color=07ff1a&icon_color=07ff1a&text_color=D3D3D3&bg_color=CC000000&include_all_commits=true&count_private=true"></img>
+<!--<a href="https://github.com/davidvida1"> <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=davidvida1&show_icons=true&title_color=07ff1a&icon_color=07ff1a&text_color=D3D3D3&bg_color=CC000000&include_all_commits=true&count_private=true"></img> -->
    
-<a href="https://github.com/davidvida1"> <img align="right" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=davidvida1&border=D3D3D3&sideNums=07ff1a&background=CC000000&stroke=07ff1a&currStreakNum=ffffff&ring=07ff1a&fire=D3D351&currStreakLabel=ffffff&sideLabels=D3D3D3&dates=b6d7a8"></img>
-  
+<a href="https://github.com/davidvida1" align="center"> <img align="right" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=davidvida1&border=D3D3D3&sideNums=07ff1a&background=CC000000&stroke=07ff1a&currStreakNum=ffffff&ring=07ff1a&fire=D3D351&currStreakLabel=ffffff&sideLabels=D3D3D3&dates=b6d7a8"></img>
 </div>
+
 <hr>
 <hr>
 <hr>
