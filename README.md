@@ -17,7 +17,8 @@
 
 <h2 align="left">💭About me </h2>
 <div>
-  <p>Welcome to my corner of the web, With every line of code, I strive to weave digital experiences that not only function flawlessly but also dazzle. Motivated by passion and fueled by a love for coding, I leverage a creative mindset to breathe life into digital visions with each keystroke.</p>
+  <p>👋 Hi there! I'm a junior front-end web developer passionate about creating beautiful and functional user interfaces. I have a special love for CSS and enjoy bringing designs to life with clean, elegant code. I'm also a big fan of React and love exploring its potential in building dynamic web applications.</p>
+  <p>☕ When I'm not coding, you can find me sipping on a cup of coffee, watching The Matrix (my all-time favorite movie), or spending quality time with my cat.</p>
 </div>
 
 
