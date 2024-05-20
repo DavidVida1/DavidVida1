@@ -17,8 +17,7 @@
 
 <h2 align="left">💭About me </h2>
 <div>
-  <p>- :muscle: CSS **obsessed Dev**</p>
-  <p>-🌱 I’m currently learning **MySQL, Bootstrap**. 🤓</p>
+  <p>Welcome to my corner of the web, With every line of code, I strive to weave digital experiences that not only function flawlessly but also dazzle. Motivated by passion and fueled by a love for coding, I leverage a creative mindset to breathe life into digital visions with each keystroke.</p>
 </div>
 
 
